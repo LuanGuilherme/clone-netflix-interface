@@ -78,6 +78,7 @@ header nav a:hover {
 
 .buttons button {
     border: none;
+    border-radius: 5%;
     padding: 1vw 2vw;
     margin-right: 1vw;
     font-size: 2vw;
